@@ -14,13 +14,13 @@ organizations:
     url: https://www.comp.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include xxxx.
+bio: My research interests include XXX.
 
 # Interests to show in About widget
 interests:
-  - xx
-  - xxx
-  - xxx
+  - Wearable Intelligent Assistants
+  - Ubiquitous Information Processing
+  - Human-LLM Interaction/Collaboration
 
 # Education to show in About widget
 education:
@@ -39,26 +39,29 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mozoe527@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/xxx
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk
+    link: 'mailto:zhouchen@comp.nus.edu.sg'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/xxx
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=TSMwzHAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/czZoe
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -67,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-This is xxxx
+Hi👋 I am Zhou Chen (周晨 in Chinese), a third-year Ph.D. student in the Department of Computer Science at the [National University of Singapore](https://www.nus.edu.sg/), under [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/cs/people/ooiwt/). I am also advised by [Prof. Shengdong Zhao](https://www.shengdongzhao.com/) and work at [Synteraction Lab (formerly NUS-HCI Lab)](https://www.synteraction.org/). My research interests include Wearable Intelligent Assistants, Ubiquitous Information Processing and Human-LLM Interaction/Collaboration. I am particularly interested in developing wearable intelligent assistants to tackle information processing challenges encountered by the elderly.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
