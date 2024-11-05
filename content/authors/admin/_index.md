@@ -70,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi👋 I am Zhou Chen (周晨 in Chinese), a third-year Ph.D. student in the Department of Computer Science at the [National University of Singapore](https://www.nus.edu.sg/), under [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/cs/people/ooiwt/). I am also advised by [Prof. Shengdong Zhao](https://www.shengdongzhao.com/) and work at [Synteraction Lab (formerly NUS-HCI Lab)](https://www.synteraction.org/). My research interests include Wearable Intelligent Assistants, Ubiquitous Information Processing and Human-LLM Interaction/Collaboration. I am particularly interested in developing wearable intelligent assistants to tackle information processing challenges encountered by the elderly.
+Hi👋 I am Zhou Chen (周晨 in Chinese), a fourth-year Ph.D. student in the Department of Computer Science at the [National University of Singapore](https://www.nus.edu.sg/), under [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/cs/people/ooiwt/). I am also advised by [Prof. Shengdong Zhao](https://www.shengdongzhao.com/) and work at [Synteraction Lab (formerly NUS-HCI Lab)](https://www.synteraction.org/). My research interests include Wearable Intelligent Assistants, Ubiquitous Information Processing and Human-LLM Interaction/Collaboration. I am particularly interested in developing wearable intelligent assistants to tackle information processing challenges encountered by the elderly.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
