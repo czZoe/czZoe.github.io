@@ -70,6 +70,10 @@ email: ''
 highlight_name: true
 ---
 
-Hi👋 I am Zhou Chen (周晨 in Chinese), a fourth-year Ph.D. student in the Department of Computer Science at the [National University of Singapore](https://www.nus.edu.sg/), under [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/cs/people/ooiwt/). I am also advised by [Prof. Shengdong Zhao](https://www.shengdongzhao.com/) and work at [Synteraction Lab (formerly NUS-HCI Lab)](https://www.synteraction.org/). My research interests include Wearable Intelligent Assistants, Ubiquitous Information Processing and Human-LLM Interaction/Collaboration. I am particularly interested in developing wearable intelligent assistants to tackle information processing challenges encountered by the elderly.
+Hi👋 I am Zhou Chen (周晨 in Chinese), a fourth-year Ph.D. student in the Department of Computer Science at the [National University of Singapore](https://www.nus.edu.sg/), under [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/cs/people/ooiwt/). I am also advised by [Prof. Shengdong Zhao](https://www.shengdongzhao.com/) and work at [Synteraction Lab (formerly NUS-HCI Lab)](https://www.synteraction.org/).
+
+I am broadly interested in Human-LLM interaction and developing wearable intelligent assistants that help users seamlessly process information in their daily lives. My work involves deeply understanding user needs and building tailored solutions to meet them. My current work applies the 'intent as action' paradigm, where users state high-level goals, allowing the AI assistant to autonomously plan and execute the necessary steps. This paradigm, however, often reduces the transparency of the AI's execution process for the user. This is especially crucial in constrained scenarios typical of wearable devices (e.g., hands-free interaction, limited user attention), where maintaining user understanding and steer is vital.
+
+Therefore, my primary focus is on identifying user difficulties stemming from inaccurate mental models during interaction and providing users with on-demand, GenAI-powered corrective guidance to augment their cognition and address this challenge.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
